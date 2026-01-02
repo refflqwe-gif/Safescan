@@ -161,7 +161,7 @@ function App() {
     <div className="min-h-screen bg-[#04111A] text-white flex flex-col">
       <header className="w-full flex flex-col sm:flex-row justify-between items-center px-6 sm:px-10 py-5 bg-[#0A2436] border-b border-[#13394C]">
         <span className="text-2xl sm:text-3xl font-extrabold text-[#78AEE0] mb-3 sm:mb-0">
-        Safeuthy
+        Safeauthy
         </span>
 
         {account ? (
